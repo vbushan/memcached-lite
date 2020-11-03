@@ -1,0 +1,10 @@
+key1 3 ABC
+key2 3 BCD
+key3 3 CDE
+key4 3 DEF
+key5 3 EFG
+key6 4 ABCD
+Hello 7 Vamsi B
+fname 6 aVmsiV
+lname 6 sBhanu
+f@name 5 Vamsi
