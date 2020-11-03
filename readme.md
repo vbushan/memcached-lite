@@ -6,12 +6,12 @@
 
 3) To run an individual client or manually create different sessions of clients open new terminal windows and type python3 client.py. Make sure that the server is running before running this command. After the client is ready, run the get or set commands as specified in the assignment description. For example: 
     
-    i) set Hello 5
-    ii) Vamsi
+    - set Hello 5
+    - Vamsi
 
-    Or
+    - Or
 
-    i) get Hello
+    - get Hello
      
 4) To run the test scripts, open a new terminal and type the command- python3 clientTest.py.
 
